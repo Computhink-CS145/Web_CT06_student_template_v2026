@@ -22,6 +22,5 @@ function draw() {
 
   for (let row = 0; row < numcircles; row++)
     let rowY = startY + (circlediamiter * row);
-    
-  
+    for (let i = 0; i  < numcircles; i++) {}
 }
