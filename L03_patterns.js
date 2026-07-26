@@ -17,5 +17,6 @@ function draw() {
   let circlediamiter = 30;
   let numcircles = 5;
   let totalwidth = numcircles * circlediamiter;
-  let startX = (width - totalwidth) / 2 + circlediamiter / 2
+  let startX = (width - totalwidth) / 2 + circlediamiter / 2;
+  let
 }
