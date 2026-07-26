@@ -19,4 +19,7 @@ function draw() {
   let totalwidth = numcircles * circlediamiter;
   let startX = (width - totalwidth) / 2 + circlediamiter / 2;
   let startY = (height - totalwidth) / 2 + circlediamiter / 2;
+
+  for (let row = 0; row < numcircles; row++)
+    
 }
