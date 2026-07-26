@@ -24,7 +24,7 @@ function draw() {
     let rowY = startY + (circlediamiter * row);
     for (let i = 0; i  < numcircles; i++) {
     let x  = startX + i * circlediamiter;
-    
+    ellipse(x,row)
     }
   }
 }
