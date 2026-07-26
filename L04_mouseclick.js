@@ -20,7 +20,7 @@ function mouseReleased() {
     shapecoulour = 'white';
     background(220);
 }
-let 
+let x = 1
 function mouseMoved() {
     ellipse()
 }
