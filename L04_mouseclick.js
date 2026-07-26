@@ -1,4 +1,5 @@
 let shapecoulour = 'blue'
 function setup(){
-    createCanvas()
+    createCanvas(600,400);
+    
 }
