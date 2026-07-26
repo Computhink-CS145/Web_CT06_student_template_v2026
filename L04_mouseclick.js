@@ -5,5 +5,6 @@ function setup(){
 }
  function draw() {
     fill(shapecoulour);
-    circle(300,)
+    circle(300,200,300);
  }
+ 
