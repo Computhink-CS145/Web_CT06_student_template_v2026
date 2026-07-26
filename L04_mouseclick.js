@@ -11,7 +11,7 @@ function setup(){
  }
 
  function mousepressed() {
-    shapecoulour = 'red;'
+    shapecoulour = 'red';
  }
 
 function mousereleased() {
