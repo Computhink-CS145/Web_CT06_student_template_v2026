@@ -22,6 +22,6 @@ function mouseReleased() {
     background(220);
 }
 function mouseDragged(){
-    circle(mouseX+random(-100,100),mouseY+random(-100,100),random(10,30)) 
+    circle(mouseX+random(-250,250),mouseY+random(-250,100),random(10,30)) 
   
 }
