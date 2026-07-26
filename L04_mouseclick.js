@@ -1,4 +1,5 @@
-let shapecoulour = 'blue'
+let shapecoulour = 'blue';
+
 function setup(){
     createCanvas(600,400);
     background(220);
@@ -8,10 +9,11 @@ function setup(){
     fill(shapecoulour);
     circle(300,200,300);
  }
- 
+
  function mousepressed() {
     shapecoulour = 'red;'
  }
+
 function mousereleased() {
     shapecoulour = 'blue';
 }
