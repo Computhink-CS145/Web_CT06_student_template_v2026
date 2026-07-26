@@ -1,7 +1,7 @@
 let shapecoulour = 'blue';
 
 function setup(){
-    createCanvas(1800,1200);
+    createCanvas(600,400);
     background(220);
 }
 
