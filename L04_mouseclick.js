@@ -15,5 +15,5 @@ function setup(){
  }
 
 function mouseReleased() {
-    shapecoulour = 'blue';
+    shapecoulour = 'ran';
 }
