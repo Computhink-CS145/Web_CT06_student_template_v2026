@@ -10,10 +10,10 @@ function setup(){
     circle(300,200,300);
  }
 
- function mousepressed() {
+ function mousePressed() {
     shapecoulour = 'red';
  }
 
-function mousereleased() {
+function mouseReleased() {
     shapecoulour = 'blue';
 }
