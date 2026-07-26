@@ -1,4 +1,4 @@
-let shapecoulour = color(random(255),random(255),random(255));
+let shapecoulour = 'red'
 
 function setup(){
     createCanvas(600,400);
