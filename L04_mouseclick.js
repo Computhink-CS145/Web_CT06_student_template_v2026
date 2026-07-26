@@ -20,7 +20,7 @@ function mouseReleased() {
     shapecoulour = 'white';
     background(220);
 }
-let x = 1
+
 function mouseMoved() {
     circle(300,200,x)
     x = x+0.1
