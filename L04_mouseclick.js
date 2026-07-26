@@ -12,7 +12,7 @@ function setup(){
  }
 
  function mousePressed() {
-    shapecoulour = color();
+    shapecoulour = color(random(255),random);
  }
 
 function mouseReleased() {
