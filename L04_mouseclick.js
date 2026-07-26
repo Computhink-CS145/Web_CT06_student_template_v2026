@@ -21,5 +21,5 @@ function setup(){
 //     background(220);
 
 function mouseDragged(){
-    circle()                
+    circle(mouseX+random(-25))                
 }
