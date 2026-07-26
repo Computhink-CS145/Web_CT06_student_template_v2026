@@ -17,7 +17,7 @@ function setup(){
 //  }
 
 function mouseReleased() {
-    shapecoulour = 'white';
+
     background(220);
 }
 function mouseDragged(){
