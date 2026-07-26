@@ -18,6 +18,7 @@ function setup(){
 
 function mouseReleased() {
     shapecoulour = 'white';
+    x=0
     background(220);
 }
 
