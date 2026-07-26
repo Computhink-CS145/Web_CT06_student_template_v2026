@@ -13,7 +13,7 @@ function setup(){
 
  function mousePressed() {
     shapecoulour = color(random(255),random(255),random(255));
-    rect(random(600),random(400))
+    rect(random(600),random(400),random(255),random(2))
  }
 
 function mouseReleased() {
