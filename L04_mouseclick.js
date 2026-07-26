@@ -12,9 +12,9 @@ function setup(){
  }
 
  function mousePressed() {
-    shapecoulour = 'red';
+    shapecoulour = '';
  }
 
 function mouseReleased() {
-    shapecoulour = 'blue';
+    shapecoulour = 'white';
 }
