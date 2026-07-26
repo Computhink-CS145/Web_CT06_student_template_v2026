@@ -11,5 +11,5 @@ function setup(){
     shapecoulour = 'red;'
  }
 function mousereleased() {
-    shapecoulour = 'blue'
+    shapecoulour = 'blue';
 }
