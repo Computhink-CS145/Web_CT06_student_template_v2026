@@ -20,9 +20,10 @@ function draw() {
   let startX = (width - totalwidth) / 2 + circlediamiter / 2;
   let startY = (height - totalwidth) / 2 + circlediamiter / 2;
 
-  for (let row = 0; row < numcircles; row++)
+  for (let row = 0; row < numcircles; row++) {
     let rowY = startY + (circlediamiter * row);
     for (let i = 0; i  < numcircles; i++) {
-      
+
     }
+  
 }
