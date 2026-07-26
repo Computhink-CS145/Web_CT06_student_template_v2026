@@ -21,4 +21,6 @@ function mouseReleased() {
     background(220);
 }
 
-mouseMoved
+function mouseMoved() {
+    ellipse(mouseX,mouseY,5,5);
+}
