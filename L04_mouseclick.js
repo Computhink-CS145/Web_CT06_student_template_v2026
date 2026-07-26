@@ -18,11 +18,10 @@ function setup(){
 
 function mouseReleased() {
     shapecoulour = 'white';
-    x=0
     background(220);
 }
 
 function mouseMoved() {
     circle(300,200,x)
-    x = x+1
+    
 }
