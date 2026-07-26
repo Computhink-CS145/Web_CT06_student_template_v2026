@@ -21,5 +21,5 @@ function draw() {
   let startY = (height - totalwidth) / 2 + circlediamiter / 2;
 
   for (let row = 0; row < numcircles; row++)
-    
+    let row = sta
 }
