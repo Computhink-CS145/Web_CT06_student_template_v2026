@@ -16,5 +16,5 @@ function draw() {
   // Task 4: Grid of Circles
   let circlediamiter = 30;
   let numcircles = 5;
-  let totalwidth = 
+  let totalwidth = numcircles * 
 }
