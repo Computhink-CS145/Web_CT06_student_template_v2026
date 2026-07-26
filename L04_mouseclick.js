@@ -16,10 +16,10 @@ function setup(){
 //     rect(random(600),random(400),random(255),random(255))
 //  }
 
-// function mouseReleased() {
-//     shapecoulour = 'white';
-//     background(220);
-
+function mouseReleased() {
+    shapecoulour = 'white';
+    background(220);
+}
 function mouseDragged(){
     circle(mouseX+random(-10,10),mouseY+random(-10,10),random(10,30))                
 }
