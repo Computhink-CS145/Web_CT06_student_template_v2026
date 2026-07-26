@@ -22,5 +22,5 @@ function mouseReleased() {
 }
 let x = 1
 function mouseMoved() {
-    circle
+    circle()
 }
