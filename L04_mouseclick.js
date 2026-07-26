@@ -8,5 +8,5 @@ function setup(){
     circle(300,200,300);
  }
  function mousepressed() {
-    
+    shapecoulour = ''
  }
