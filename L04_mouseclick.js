@@ -16,12 +16,10 @@ function setup(){
 //     rect(random(600),random(400),random(255),random(255))
 //  }
 
-function mouseReleased() {
-    shapecoulour = 'white';
-    background(220);
-}
+// function mouseReleased() {
+//     shapecoulour = 'white';
+//     background(220);
 
-function mouseMoved() {
-    circle(300,200,x)
+function mouseDragged(){
     
 }
