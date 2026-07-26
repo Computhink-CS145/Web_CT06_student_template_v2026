@@ -12,7 +12,7 @@ function setup(){
  }
 
  function mousePressed() {
-    shapecoulour = colo;
+    shapecoulour = color();
  }
 
 function mouseReleased() {
