@@ -1,4 +1,4 @@
-let shapecoulour
+let shapecoulour = 'blue'
 function setup(){
 
 }
